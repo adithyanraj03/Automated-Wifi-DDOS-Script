@@ -61,4 +61,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## Contact
 
-For questions or feedback, feel free to reach out:
+For questions or feedback, feel free to reach out 😄: [Email](mailto:adithyanraj03@gmail.com)
