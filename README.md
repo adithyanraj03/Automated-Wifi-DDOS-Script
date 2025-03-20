@@ -61,4 +61,5 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## Contact
 
-For questions or feedback, feel free to reach out 😄: [Email](mailto:adithyanraj03@gmail.com)
+For questions or feedback, feel free to reach out 😄 click: [Email](https://mail.google.com/mail/?view=cm&fs=1&to=adithyanraj03@gmail.com&su=Git%20Task%20Automation%20Tool&body=Hello%20Developer%20Adithya,%0A%0AI%20came%20across%20your%20Git%20repository%20for%20the%20Git%20Task%20Automation%20Tool%20and%20wanted%20to%20reach%20out.%0A%0AI'm%20interested%20in%20discussing%20some%20ideas.%0A%0ABest,%0A[Your%20Name]
+)
